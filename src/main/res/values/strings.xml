@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Aula02</string>
+    <string name="digite_a_url">Digite a url</string>
+    <string name="jokenpo">Jokenpô</string>
+    <string name="papel">Papel</string>
+    <string name="pedra">Pedra</string>
+    <string name="tesoura">Tesoura</string>
+    <string name="pr_ximo">Próximo</string>
+    <string name="Pedra">✊</string>
+    <string name="Papel">🤚</string>
+    <string name="Tesoura">✌</string>
+</resources>
